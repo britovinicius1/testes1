@@ -52,4 +52,6 @@ print(pessoas)
 # %%
 pessoas.clear() ##Apaga o conteuodo do dicionario.
 
+#%%
+
 
