@@ -23,7 +23,10 @@ Este repositório foi criado para revisar conceitos fundamentais da linguagem Py
 - Break & Continue [x] 
 - Resolução de exercicios [x] (feitos no raquivo exercicio tanto da aula 04 quanto da aula 03 - junção de conteudos)
 
-
+ 4. Estrutura de dados e funções
+ - Funções;
+ - Modulos;
+ - Lidando com arquivos;
 
 
 
