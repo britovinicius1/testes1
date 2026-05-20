@@ -20,6 +20,11 @@ s = somar(2,4)
 print(s)
 
 #%%
+#%%
+list = [20,30,40,50,60,10,11]
+
+list.sort()
+print(list)
 
 
 
